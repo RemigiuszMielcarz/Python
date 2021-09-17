@@ -1,0 +1,2 @@
+wylosowane:[4, 5, 7];dane:(3, 10);ile:0;czas:1434482711.67
+wylosowane:[8, 9, 1];dane:(5, 6);ile:1;czas:1632321711.67
