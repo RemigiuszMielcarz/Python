@@ -1,0 +1,3 @@
+nerd:kujon,medrzec
+course:kurs,przedmiot
+fraction:frakcja,ułamek
